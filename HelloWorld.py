@@ -3,3 +3,5 @@
 #@Author : JackNiu
 # print("helloWorld JackNiu")
 print("Hello JackNiu and delete first row")
+print("JackNiu")
+print("niu")
